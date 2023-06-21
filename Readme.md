@@ -6,8 +6,8 @@ This tic tac toe game is made using python. It can be played between two players
 
 ### Clone the repository.
 ```bash
-git clone 
-cd 
+git clone https://github.com/lalitware/tic-tac-toe-game.git
+cd tic-tac-toe-game
 ``` 
 
 ### Create and activate the environment.
